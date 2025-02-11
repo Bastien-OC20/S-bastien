@@ -3,7 +3,12 @@
 
 - 📖 Développeur web | front-end
 - 🎓 RNCP 5 (Bac +2)
-- ⚙️ JS, VueJS, NodeJS, MySQL, MongoDB, Pyhton  
+- ⚙️ Stack 
+    - JS => VueJS, NodeJS.
+    - Python => FastApi, Flask 
+    - Base de données => MySQL, MongoDB.
+    - Machine learning
+    - IA   
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Bastien-OC20&theme=gotham&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien-OC20&theme=gotham)
